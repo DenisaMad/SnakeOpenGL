@@ -1,4 +1,4 @@
-**Descriere**
+ **Descriere**
 
 Acest joc de Șarpe este o implementare simplă a jocului clasic în care jucătorul controlează un șarpe care crește în lungime pe măsură ce mănâncă mâncare. Obiectivul este să mănânci cât mai multă mâncare fără să te ciocnești de pereții zonei de joc sau de propriul corp al șarpelui.
 
