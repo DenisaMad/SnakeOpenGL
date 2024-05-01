@@ -13,19 +13,25 @@ Acest joc de Șarpe este o implementare simplă a jocului clasic în care jucăt
 **Controale**
 
 1.Tastele săgeată: Controlează direcția șarpelui.
+
 1.ESC sau Q: Închide jocul.
 
 **Caracteristici**
 
 Generarea aleatoare a hranei pentru șarpele să mănânce.
+
 Urmarirea scorului pentru a ține evidența performanței jucătorului.
+
 Culoarea șarpelui ajustabilă.
 
 **Tehnologii Utilizate**
 
 Limbajul de programare C++
+
 Biblioteca OpenGL pentru redarea graficelor
+
 Biblioteca GLU pentru proiecția perspectivă
+
 Biblioteca GLUT pentru gestionarea ferestrelor și a evenimentelor
 
 **Instalare**
@@ -36,6 +42,8 @@ Pentru a rula jocul de Șarpe, trebuie să ai OpenGL instalat pe sistemul tău. 
 
 Dezvoltator: Madularea Denisa Florina  
 Instituție: Institutul de Științe Electrice (IESC)
+
 Program: Tehnologia Informatiei  (TI)
+
 Grupa: 4LF322
 
