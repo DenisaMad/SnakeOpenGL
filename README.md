@@ -34,7 +34,8 @@ Pentru a rula jocul de Șarpe, trebuie să ai OpenGL instalat pe sistemul tău. 
 
 **Credite**
 
-Dezvoltator: Madularea Denisa Florina
+Dezvoltator: Madularea Denisa Florina  
 Instituție: Institutul de Științe Electrice (IESC)
 Program: Tehnologia Informatiei  (TI)
 Grupa: 4LF322
+
