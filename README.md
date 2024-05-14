@@ -18,7 +18,7 @@ Acest joc  este o implementare simplă a jocului clasic în care jucătorul cont
 
 **Caracteristici**
 
-Generarea aleatoare a hranei pentru șarpele să mănânce.
+Generarea aleatoare a hranei.
 
 Urmarirea scorului pentru a ține evidența performanței jucătorului.
 
