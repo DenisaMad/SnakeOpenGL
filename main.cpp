@@ -187,7 +187,24 @@ void moveSnake(int new_direction) {
         break;
     }
 
+    case 'w': {
+        delta_y = 2.0f;
+        map_edge = map_half_length;
+        snake_part_axis = 1;
+
+        break;
+    }
+
+
     case DOWN: {
+        delta_y = -2.0f;
+        map_edge = -map_half_length;
+        snake_part_axis = 1;
+
+        break;
+    }
+
+    case 's': {
         delta_y = -2.0f;
         map_edge = -map_half_length;
         snake_part_axis = 1;
@@ -203,12 +220,35 @@ void moveSnake(int new_direction) {
         break;
     }
 
+    case 'd': {
+        delta_x = 2.0f;
+        map_edge = map_half_length;
+        snake_part_axis = 0;
+
+        break;
+    }
     case LEFT: {
         delta_x = -2.0f;
         map_edge = -map_half_length;
         snake_part_axis = 0;
 
         break;
+    }
+
+    case 'a': {
+        delta_x = -2.0f;
+        map_edge = -map_half_length;
+        snake_part_axis = 0;
+
+        break;
+    }
+
+    case 'c': {// Allow user to choose the snake color
+        chooseSnakeColor();
+        break;
+    }
+    case 'q': {
+        exit(0);
     }
     }
 
