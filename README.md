@@ -5,9 +5,13 @@ Acest joc  este o implementare simplă a jocului clasic în care jucătorul cont
 **Cum se Joacă**
 
 1. Utilizează tastele săgeată (sus, jos, stânga, dreapta) pentru a controla direcția șarpelui.
+
 2.Ghidează șarpele să mănânce mâncarea care apare pe ecran.
+
 3.Evită să te ciocnești de pereți sau de corpul propriu al șarpelui.
+
 4.Jocul se încheie atunci când șarpele se ciocnește de un perete sau de propriul corp.
+
 5.Apasă 'ESC' sau 'Q' pentru a ieși din joc în orice moment.
 
 **Controale**
